@@ -259,7 +259,7 @@
         retrieveFromStorage: retrieveFromStorage,
         settings: {
             botName: 'basicBot',
-            language: 'english',
+            language: 'english',portuguese
             chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
             scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
@@ -307,7 +307,7 @@
             motd: 'Temporary Message of the Day',
             filterChat: true,
             etaRestriction: false,
-            welcome: true,
+            welcome: true,Bem-Vindo( a) á %r u% Cat
             opLink: null,
             rulesLink: null,
             themeLink: null,
